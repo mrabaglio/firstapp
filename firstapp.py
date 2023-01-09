@@ -9,8 +9,8 @@ import pandas as pd
 
 # Sin usar st.write
 df = pd.DataFrame({
-  'column 1': [1, 2, 3, 4],
-  'column 2': [10, 20, 30, 40]
+  'column x1': [1, 2, 3, 4],
+  'column x2': [10, 20, 30, 40]
 })
 
 df
